@@ -1,14 +1,14 @@
 Hi 👋 My name is Anirudh Nair
 =============================
 
-Web Developer
+ML Developer
 -------------
 
 Pursuing Bachelors of Technology, Computer Science Engineering
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Bangalore, INDIA
 * ✉️  You can contact me at [anirudhthambannair@gmail.com](mailto:anirudhthambannair@gmail.com)
-* 🧠  I'm learning Java Core
+* 🧠  I'm currently working at AGNITECH FORGE PVT. LTD.
 
 <a href="https://www.github.com/AnirudhNair17" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AnirudhNair17?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
